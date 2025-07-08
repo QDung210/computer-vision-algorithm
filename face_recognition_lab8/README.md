@@ -10,9 +10,9 @@ This project is a simple face recognition application using PCA (Eigenfaces) and
 
 ## Demo
 
-![Main Interface](demo1.png) The main interface of the application when launched.
-![Main Interface](demo2.png) The interface after selecting an image for testing.
-![Main Interface](demo3.png) The result after face detection and recognition.
+<img src="demo1.png" width="300"/> The main interface of the application when launched.  
+<img src="demo2.png" width="300"/> The interface after selecting an image for testing.  
+<img src="demo3.png" width="300"/> The result after face detection and recognition.
 
 ## How It Works
 
